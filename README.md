@@ -8,9 +8,9 @@ Models are distributed as **GitHub Release assets**. The app downloads them on-d
 
 ## Available Models
 
-| Model | File | Size | Release |
-|-------|------|------|---------|
-| Gemma 3 1B IT (int4) | `gemma3-1b-it-int4.litertlm` | ~557 MB | [offline-models-v1](https://github.com/atj393/automatist-models/releases/tag/offline-models-v1) |
+| Model | File | Format | Size | Release |
+|-------|------|--------|------|---------|
+| Gemma 3 1B IT (int4) | `gemma3-1b-it-int4.task` | MediaPipe Task Bundle | ~529 MB | [offline-models-v1](https://github.com/atj393/automatist-models/releases/tag/offline-models-v1) |
 
 ## Integrity Verification
 
