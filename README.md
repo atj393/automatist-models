@@ -50,4 +50,4 @@ New models are added as assets to new or existing releases. Older releases are p
 
 Licensing, permission, and commercial enquiries:
 
-**Alexis Johnson** — alexistoby393@gmail.com — https://automatist.cloud
+**Alexis Johnson** — support@automatist.cloud — https://automatist.cloud

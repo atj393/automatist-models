@@ -125,5 +125,5 @@ To avoid any ambiguity, Alexis Johnson and this repository do **not**:
 ## Contact
 
 **Alexis Johnson**
-Email: alexistoby393@gmail.com
+Email: support@automatist.cloud
 Automatist: https://automatist.cloud
